@@ -1,4 +1,4 @@
-![King_County.jpeg](attachment:King_County.jpeg)
+![King_County](https://user-images.githubusercontent.com/120589094/219787868-8efdbffe-eb78-4ab2-ac12-694c266928b2.jpeg)
 
 # Cohabitational Housing for Single Mother's in King’s County, WA
 Data Analysis for CoAbode.org
@@ -50,6 +50,8 @@ We felt that these decisions were appropriate based on the data and our business
 
 Looking at the correlation between housing price and square footage, we found a positive correlation between the two featres and an over-all positive skew in the pricing data, with a few outliers.
 
+![Price_v_SqftLiving](https://user-images.githubusercontent.com/120589094/219788010-c4958f2c-06d8-4163-808c-86dc85ba27a3.png)
+
 ### Baseline Understanding
 
 Our assumption without modeling would be that the larger a home, the higher the price.
@@ -98,6 +100,8 @@ With these parameters, our Final Model jumped a bit more and now explains 70.5% 
 ## Conclusions
 
 We would recommend that cohabiting single mothers looking to co-purchase a family home in King County, Washington consider looking in the Mercer Island School District as there are a considerable number of undervalued family houses and the schools have the best test scores in the county.
+
+<img width="970" alt="Screen Shot 2023-02-17 at 9 07 28 AM" src="https://user-images.githubusercontent.com/120589094/219787955-1f9384d4-3af1-4d4f-ac91-984e34c4fa9d.png">
 
 Our analysis was limited to data from house sales in King County, Washington and so might not be applicable to other localities as other predictive variables may be more influential on housing prices in that particular area.
 
