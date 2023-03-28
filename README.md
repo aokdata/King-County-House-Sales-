@@ -108,3 +108,12 @@ We would recommend that cohabiting single mothers looking to co-purchase a famil
 Our analysis was limited to data from house sales in King County, Washington and so might not be applicable to other localities as other predictive variables may be more influential on housing prices in that particular area.
 
 Finally, we would continue working on simplifying our model to be able to specify which house features are most important to the overall value of a house. 
+
+
+## Repository Structure
+```
+├── .gitignore
+├── Heinke & O'Keefe King-County-House-Sales Presentation.pdf
+├── House_Sales_Regression_Analysis.ipynb
+└── README.md 
+```
